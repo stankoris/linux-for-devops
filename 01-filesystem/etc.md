@@ -71,7 +71,6 @@ rules for the whole system
 rules/settings only for the ubuntu user
 ```
 
-### `/etc`
 #### `/etc/ssh`
 
 Three different things with similar names are easy to confuse here:
