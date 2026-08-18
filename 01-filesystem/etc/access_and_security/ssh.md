@@ -1,4 +1,4 @@
-#### `/etc/ssh`
+# `/etc/ssh`
 
 Three different things with similar names are easy to confuse here:
 
