@@ -8,8 +8,8 @@ The goal of this repository is to understand how Linux works, how its components
 
 ### 01 — Linux
 
-- [Filesystem Hierarchy](01-linux/filesystem-hierarchy.md)
-- [Users, Groups & Permissions](01-linux/users-groups-permissions.md)
+- [Filesystem Hierarchy](01-Linux/filesystem-hierarchy.md)
+- [Users, Groups & Permissions](01-Linux/users-groups-permissions.md)
 - Processes & Signals
 - systemd & Services
 - Package Management
