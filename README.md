@@ -10,6 +10,7 @@ The goal of this repository is to understand how Linux works, how its components
 
 - [Filesystem Hierarchy](01-Linux/filesystem-hierarchy.md)
 - [Users, Groups & Permissions](01-Linux/users-groups-permissions.md)
+- [Kernel Fundamentals](01-Linux/kernel-fundamentals.md)
 - [Processes & Signals](01-Linux/processes-signals.md)
 - Systemd & Services
 - Package Management
